@@ -1,0 +1,21 @@
+From 4a6f93f2f95894aae42c1c1d90f55402c78cf8ec Mon Sep 17 00:00:00 2001
+From: kriezdd <blagushin_nikita@mail.ru>
+Date: Sat, 14 Dec 2024 22:13:40 +0300
+Subject: [PATCH] newnew file patch
+
+---
+ newnew.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 newnew.txt
+
+diff --git a/newnew.txt b/newnew.txt
+new file mode 100644
+index 0000000..28fe221
+--- /dev/null
++++ b/newnew.txt
+@@ -0,0 +1 @@
++patch2
+\ No newline at end of file
+-- 
+2.45.1.windows.1
+
