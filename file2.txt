@@ -1,2 +1,2 @@
 "Text in textfile 2 modified by person1" 
-"rewrite text in dev2" 
+"rewrite text in dev2" "new change in dev" 
